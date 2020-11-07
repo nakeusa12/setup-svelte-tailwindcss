@@ -67,7 +67,9 @@
 			<p>
 				This setup makes it easy for you so you don't have to bother setting it
 				up again. you can check the source
-				<a href="#" class="link">here</a>.
+				<a
+					href="https://dev.to/sarioglu/using-svelte-with-tailwindcss-a-better-approach-47ph"
+					class="link">here</a>.
 			</p>
 		</div>
 	</div>
